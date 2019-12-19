@@ -4,8 +4,7 @@ const karmaConfig = require('./karma.common.conf.js')
 
 const browsers = {
   Chrome: {},
-  Firefox: {},
-  IE: {}
+  Firefox: {}
 }
 
 module.exports = (config) => {
