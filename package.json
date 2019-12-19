@@ -1,6 +1,6 @@
 {
   "name": "@d0whc3r/jspdf",
-  "version": "1.5.3",
+  "version": "1.6.0",
   "homepage": "https://github.com/d0whc3r/jspdf",
   "description": "PDF Document creation from JavaScript",
   "main": "dist/jspdf.min.js",

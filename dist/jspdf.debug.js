@@ -5828,7 +5828,7 @@
      * @memberof jsPDF#
      */
 
-    jsPDF.version = '1.5.3';
+    jsPDF.version = '1.6.0';
 
     if (typeof define === 'function' && define.amd) {
       define('jsPDF', function () {
